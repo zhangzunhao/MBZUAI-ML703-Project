@@ -2,6 +2,8 @@
 
 **AdaptSegNet** (Mainly from https://github.com/wasidennis/AdaptSegNet)
 
+Download GTA5 dataset and CityScapes dataset and put them in the suitable position.
+
 train_gta2cityscapes_multi.py  train the model
 
 evaluate_cityscapes.py         output the prediction results
