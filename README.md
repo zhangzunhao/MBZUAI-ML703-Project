@@ -1,6 +1,6 @@
 # MBZUAI-ML703-Project
 
-AdaptSegNet 
+**AdaptSegNet** 
 
 train_gta2cityscapes_multi.py  train the model
 
@@ -9,7 +9,7 @@ evaluate_cityscapes.py         output the prediction results
 compute_iou.py                 compute iou to evaluate the model
 
 
-AdaIN-mnsit-svhn
+**AdaIN-mnsit-svhn**
 
 create dataset.py  create and save the pictures of MNIST, SVHN
 
@@ -22,7 +22,7 @@ net.py             encoder-decoder structure of AdaIN
 resnet.net         ResNet18 for training
 
 
-DANN
+**DANN**
 
 config.py        write the position of the folder
 
@@ -36,7 +36,7 @@ test_model.py    test the results of DANN on target dataset
 
 
 
-CycleGAN-mnist-svhn
+**CycleGAN-mnist-svhn**
 
 main.py          input basic parameters, train the cycleGAN, save the model and output pictures
 
